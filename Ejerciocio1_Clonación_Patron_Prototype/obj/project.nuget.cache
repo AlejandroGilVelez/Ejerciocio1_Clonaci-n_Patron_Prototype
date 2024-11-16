@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "yjDBpQSDJqI=",
+  "success": true,
+  "projectFilePath": "F:\\Diplomado Arq\\Ejerciocio1_Clonación_Patron_Prototype\\Ejerciocio1_Clonación_Patron_Prototype\\Ejerciocio1_Clonación_Patron_Prototype.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Está ejecutando la operación \"restore\" con un origen \"HTTP\", \"http://scpackages.azurewebsites.net/nuget\". El acceso que no sea HTTPS se quitará en una versión futura. Considere la posibilidad de migrar a un origen \"HTTPS\"."
+    }
+  ]
+}

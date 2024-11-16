@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ejerciocio1_Clonación_Patron_Prototype/1.0.0": {
+        "runtime": {
+          "Ejerciocio1_Clonación_Patron_Prototype.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejerciocio1_Clonación_Patron_Prototype/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
